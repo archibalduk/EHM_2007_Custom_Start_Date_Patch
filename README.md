@@ -5,4 +5,4 @@ Further details can be found here: https://www.ehmtheblueline.com/forums/viewtop
 
 The CSD Patch was last compiled with Microsoft Visual Studio 2013.
 
-Please bear in mind that this is the first ever C++ code I wrote and it was a big learning curve. The standard of coding is very poor and should ideally be re-organised. However, the code is very short and simple, so it should only take an hour or two to tidy things up.
+Please bear in mind that this is the first ever C++ code I wrote and it was a big learning curve. The standard of coding is very poor and should ideally be re-organised. However, the code is very short and simple, so it should only take an hour or so to move the code definitions from CSD_Form.h to CSD_Form.cpp and to add proper declarations in the header file.
